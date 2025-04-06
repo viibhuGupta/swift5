@@ -10,10 +10,11 @@ const bankName = "STATE BANK OF INDIA";
 const transactionNumberAdd = "#1485626616";
 const dayTake = "10";
 const paymentDataTime = "Saturday, 5 April at 19:27";
-const bankReceivePaymentDataTime = "Today";
+const bankReceivePaymentDataTime = "5 April ";
 const bankPaidToCoustomerBank = "12 April at 11:56";
 const coustomerReceiveMoney = "14 April at 21:00";
 // const branchCode = "030";
+export const category = "";
 
 const bankCode = "125";
 const idNumber = "5006255205";
