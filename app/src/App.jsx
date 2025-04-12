@@ -13,11 +13,13 @@ function App() {
   const getCategoryLabel = () => {
     switch (category) {
       case "f":
-        return "Family";
+        return "Sending money home to family";
       case "p":
         return "Personal Expenses";
       case "e":
-        return "Education";
+        return "Education expenses";
+      case "s":
+        return "Savings";
       default:
         return "General";
     }
