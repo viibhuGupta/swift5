@@ -10,7 +10,7 @@ const bankName = "STATE BANK OF INDIA";
 const transactionNumberAdd = "#1496390924";
 const dayTake = "9";
 const paymentDataTime = "Sunday, 13 April at 18:41";
-const bankReceivePaymentDataTime = "Today ";
+const bankReceivePaymentDataTime = "13 April  ";
 const bankPaidToCoustomerBank = "19 April at 11:56";
 const coustomerReceiveMoney = "Monday, 21 April at 21:00";
 // const branchCode = "030";
@@ -24,7 +24,7 @@ const idType = "Passport (Pasaporte)";
 
 // Currency types
 //         npm run dev --  --host
-const shareYes = "n";
+const shareYes = "Y";
 const currencyTypeReceive = "INR";
 const currencyTypeSender = "USD";
 
