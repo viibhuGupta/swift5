@@ -24,7 +24,7 @@ const idType = "Passport (Pasaporte)";
 
 // Currency types
 //         npm run dev --  --host
-const shareYes = "Y";
+const shareYes = "n";
 const currencyTypeReceive = "INR";
 const currencyTypeSender = "USD";
 
